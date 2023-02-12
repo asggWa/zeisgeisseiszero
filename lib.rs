@@ -1,6 +1,9 @@
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
+pub fn treebtc()->i32{
+    print!("Buscar errores y listar para arranque seguro.")
+}
 
 #[cfg(test)]
 mod tests {
